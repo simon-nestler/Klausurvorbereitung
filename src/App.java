@@ -1,5 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        Tier t = new Bulldogge();
+        System.out.println(t.toString());
     }
 }
