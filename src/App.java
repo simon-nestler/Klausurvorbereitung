@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        statischerVsDynamischerTyp();
+        // statischerVsDynamischerTyp();
+        ExceptionBeispiel.main(args);
     }
 
     public static void statischerVsDynamischerTyp() {
