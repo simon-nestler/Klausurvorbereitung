@@ -1,8 +1,8 @@
-public class Bulldogge extends Hund {
+public class Dalmatiner extends Hund {
 
     @Override
     public String toString() {
-        return "Bulldogge";
+        return "Dalmatiner";
     }
 
     @Override
@@ -12,6 +12,7 @@ public class Bulldogge extends Hund {
 
     @Override
     public void bellen() {
-        System.out.println("Der Hund bellt wie eine Bulldogge...");
+        System.out.println("Der Hund bellt wie ein Dalmatiner...");
     }
+
 }
